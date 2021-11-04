@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T19:00:54.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GdEkEcVquBZ0pOz8DKHw" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T19:02:41.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5rQOU2f8m308exEvnQXf" version="15.6.8" type="github">
   <diagram id="jkDw5KnAWA2Iy1HF7PQo" name="Page-1">
-    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="MXh0XPTJ4W-5BztZ-EwL-40" value="tmp[sorted_spot] = arr[right_spot]&lt;br&gt;right_spot++&lt;br&gt;sorted_spot++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="530" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MXh0XPTJ4W-5BztZ-EwL-41" value="&lt;span&gt;int left_spot=left_index&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MXh0XPTJ4W-5BztZ-EwL-41" value="&lt;span&gt;int left_spot=left_index&lt;br&gt;right_spot=mid_index+1&lt;br&gt;i&lt;br&gt;sorted_spot=left_index&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="355" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MXh0XPTJ4W-5BztZ-EwL-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MXh0XPTJ4W-5BztZ-EwL-42" target="MXh0XPTJ4W-5BztZ-EwL-19">
